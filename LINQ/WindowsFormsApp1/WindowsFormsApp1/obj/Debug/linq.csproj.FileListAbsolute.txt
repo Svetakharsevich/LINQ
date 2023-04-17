@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\linq.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Home\Desktop\Алгоритмизация\LINQ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
